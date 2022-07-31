@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achref Yakdhane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">i spend most of my time creating software solutions that make life easier. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achref-yak" alt="achref-yak" /></a> </p>
 
