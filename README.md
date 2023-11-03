@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Achref Yakdhane</h1>
+<h1 align="center">Hi, I'm Achref Yakdhane</h1>
 <h3 align="center">I spend most of my time developing software that makes life easier</h3>
 
 
